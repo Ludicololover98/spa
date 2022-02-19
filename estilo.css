@@ -1,0 +1,29 @@
+* {margin: 0;
+padding: 0;}
+body{background-color:#301934;
+margin: 1em;}
+.titulos{text-align: center;}
+nav ul {text-align: center; list-style-type:none; background-color: #3a1325;}
+nav ul li {display: inline-block; text-align: center; padding: 3em; color: #004d36;
+}
+ul li a{color:#004d36; text-decoration: none;}
+article {padding: 1em;}
+.tituloa {text-align: center;}
+.sanj{
+height: 30%;
+width:30%;}
+.sanjuan {text-align: center;padding: 1em;}
+.artb {display: block;overflow: hidden;}
+p {text-align: center; padding-left:25%;
+padding-right: 25%;}
+.titulob {text-align: center;}
+.cord{
+    height: 30%;
+    width:30%;}
+    .cordoba {text-align: center;padding: 1em;}
+    .arta {display: block;overflow: hidden;}
+footer {background-color:#fd3a4a; padding:1em;}
+.social{list-style-type: none;
+float: left;
+text-align: left;}
+.contacto {text-align:center;float: center;}
